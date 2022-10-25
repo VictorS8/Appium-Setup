@@ -14,7 +14,7 @@ Teste de dispositivos móveis - iOS, Android
 
 - [Ruby](http://rubygems.org/gems/appium_lib)
 - [Python](https://pypi.python.org/pypi/Appium-Python-Client)
-- [Java](https://search.maven.org/#search|gav|1|g%3A"io.appium" AND a%3A"java-client")
+- [Java](https://search.maven.org/search?q=g:io.appium%20AND%20a:java-client)
 - [JavaScript](https://www.npmjs.org/package/wd)
 - [PHP](https://github.com/appium/php-client)
 - [C#](https://www.nuget.org/packages/Appium.WebDriver/)
